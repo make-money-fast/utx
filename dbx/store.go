@@ -1,4 +1,4 @@
-package ldb
+package dbx
 
 import (
 	"github.com/asdine/storm/v3"
